@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include punia_look *.css
+recursive-include punia_look *.csv
+recursive-include punia_look *.html
+recursive-include punia_look *.ico
+recursive-include punia_look *.js
+recursive-include punia_look *.json
+recursive-include punia_look *.md
+recursive-include punia_look *.png
+recursive-include punia_look *.py
+recursive-include punia_look *.svg
+recursive-include punia_look *.txt
+recursive-exclude punia_look *.pyc
