@@ -1,0 +1,8 @@
+{
+    "css/punia_look.min.css": [
+        "public/css/punia_look.css"
+    ],
+    "css/punia_look-web.min.css": [
+        "public/css/punia_look-web.css"
+    ]
+}

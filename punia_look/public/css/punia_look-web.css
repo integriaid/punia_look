@@ -1,0 +1,125 @@
+.navbar {
+	background-color: #EE6A3C;
+	/*background-repeat: repeat-x;
+	background-image: none;
+	background: transparent;*/
+	/* border: none; */
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+/*.navbar-brand {
+	padding: 0px 15px;
+}*/
+/*.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:visited {
+	color: #36414c;
+}*/
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+btn-primary {
+	background-color: #354582;
+	border-color: #354582;
+}
+.web-footer {
+	/*background: linear-gradient(#AB69B8, #474b91);*/
+	background: transparent;
+	color: #36414c;
+	/*border-top: 5px solid #AB69B8;*/
+	border: none;
+	padding-top: 60px;
+}
+.web-footer,
+.web-footer a {
+	color: #ffffff;;
+	font-size: 14px;
+}
+
+.web-footer a:hover,
+.web-footer a:focus,
+.web-footer a:active,
+.web-footer a:visited {
+	color: #ffffff;
+	font-size: 14px;
+}
+
+.footer-powered .text-muted{
+	/*color: #c0c0c0!important;*/
+	color: #fff!important;
+}
+
+
+/* sosmed*/
+.fa {
+  padding :20px;
+  font-size: 30px;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 20%;
+  vertical-align: middle;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #DF1D51;
+  color: white;
+}
+
+.fa-whatsapp {
+  background: #24A316;
+  color: white;
+}
+
+/*login area*/
+
+.hero-and-content{
+	background-color: #fff!important;
+}
+.page-card{
+	border-radius:0;
+	background-color: #fff;
+}
+/*.page-card .page-card-head{
+	background-color: #7E529E;
+}*/
+/*.page-card .page-card-head .indicator{
+	color: #fff;
+}*/
+/*.indicator::before{
+	border: solid 1px #fff;
+}*/
+.form-footer{
+	display: none;
+}

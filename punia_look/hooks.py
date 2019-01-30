@@ -15,15 +15,15 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/css/punialook.min.css"
+app_include_css = "/assets/css/punia_look.min.css"
 app_include_js = [
-	"/assets/punialook/js/punialook.js"
-	# "/assets/punialook/js/modules.js"
+	"/assets/punia_look/js/punia_look.js"
+	# "/assets/punia_look/js/modules.js"
 ]
 
 # include js, css files in header of web template
-web_include_css = "/assets/css/punialook-web.min.css"
-web_include_js = "/assets/punialook/js/punialook.js"
+web_include_css = "/assets/css/punia_look-web.min.css"
+web_include_js = "/assets/punia_look/js/punia_look.js"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
@@ -125,13 +125,13 @@ web_include_js = "/assets/punialook/js/punialook.js"
 
 # punia images
 website_context = {
-	"favicon": "/assets/punialook/img/favicon.ico",
-	"email_brand_image": "assets/punialook/img/punia-logo.png",
-	"splash_image": "assets/punialook/img/online-store.png",
-	# "company_logo": "assets/punialook/img/p-logo.png"
+	"favicon": "/assets/punia_look/img/favicon.ico",
+	"email_brand_image": "assets/punia_look/img/punia-logo.png",
+	"splash_image": "assets/punia_look/img/online-store.png",
+	# "company_logo": "assets/punia_look/img/p-logo.png"
 }
 
-update_website_context = "punialook.punia_look.website_context.update_website_context"
+update_website_context = "punia_look.punia_look.website_context.update_website_context"
 
 default_mail_footer = """
 	<span>
