@@ -9,7 +9,7 @@ $(document).bind('toolbar_setup', function () {
 
 
     $('.navbar-home').html('<img class="erpnext-icon" src="' +
-        frappe.urllib.get_base_url() + '/assets/punia_look/img/home_icon.png" />');
+        frappe.urllib.get_base_url() + '/assets/punia_look/img/home-icon.png" />');
 
     // $('[data-link="docs"]').attr("href", "https://docs.punia.online")
     // $('[data-link="issues"]').attr("href", "https://github.com/frappe/erpnext/issues")

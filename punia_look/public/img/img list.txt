@@ -1,0 +1,8 @@
+image list:
+
+favicon.ico
+home-icon.png
+splash_image.png
+brand_logo.png (logo di website navbar)
+email_brand_logo.png
+company-logo

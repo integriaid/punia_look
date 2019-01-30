@@ -126,9 +126,9 @@ web_include_js = "/assets/punia_look/js/punia_look.js"
 # punia images
 website_context = {
 	"favicon": "/assets/punia_look/img/favicon.ico",
-	"email_brand_image": "assets/punia_look/img/punia-logo.png",
-	"splash_image": "assets/punia_look/img/online-store.png",
-	# "company_logo": "assets/punia_look/img/p-logo.png"
+	"email_brand_image": "assets/punia_look/img/email-brand-logo.png",
+	"splash_image": "assets/punia_look/img/splash-image.png",
+	# "company_logo": "assets/punia_look/img/company-logo.png"
 }
 
 update_website_context = "punia_look.punia_look.website_context.update_website_context"
